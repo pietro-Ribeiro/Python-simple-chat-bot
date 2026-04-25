@@ -1,4 +1,4 @@
-# python chat bot - aprendizado com dicionario e aprendizado:
+# python chat bot - aprendizado com dicionario:
 linguagem python, bot feito pelo celular
 
 ## importações e tecnologias usadas :
