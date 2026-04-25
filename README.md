@@ -1,2 +1,15 @@
-# Python-simple-chat-bot
-Bot desenvolvido em python com 3 importaçoes e versão original (alguns erros) e concertada (grafia e erros concertados)
+# python chat bot geral:
+linguagem python, bot feito pelo celular usando o aplicativo python code pad
+
+## importações usadas :
+* random
+* math
+* datetime
+
+### aprendizado :
+* dicionários/listas
+* random.choice e funcionalidade
+* break para parar while
+* uso menor e menos desnecessário de if e elif
+
+2026, Brasil
